@@ -1,8 +1,10 @@
 # Eject Disks Alfred Extension
 
-[Alfred](http://www.alfredapp.com/) currently only allows you to eject entire volumes. I needed to eject a few partitions of a volume. This script is a quick workaround that'll let you do this.
+As is, this extension will eject all external disks using the keyword 'eject'.
 
-Once you install the script in Alfred, make sure you edit the first line so that `volumeNames` contains a list of the partitions you want ejected when the script runs.
+[Alfred](http://www.alfredapp.com/) currently only allows you to eject entire volumes.
 
-Hope this helps!
-Marcos
+Once you install the script in Alfred, make sure you edit the second line so that `every disk` contains a list of the disks you want ejected when the script runs.
+
+Icon: Eject - http://ionicons.com
+Originally Created by: @metavida
