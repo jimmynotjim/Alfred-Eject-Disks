@@ -1,6 +1,6 @@
 # Eject Disks Alfred Extension
 
-As is, this extension will eject all external disks using the keyword 'eject'.
+As is, this extension will eject all external disks using the keyword `eject`.
 
 [Alfred](http://www.alfredapp.com/) currently only allows you to eject entire volumes.
 
@@ -8,7 +8,7 @@ Once you install the script in Alfred, make sure you edit the second line so tha
 
 ## Compatibility
 
-This extension has only been tested on Alfred 2.0 that supports the '.alfredworkflow' file type.
+This extension has only been tested on Alfred 2.0 that supports the `.alfredworkflow` file type.
 
 ## Assets
 
