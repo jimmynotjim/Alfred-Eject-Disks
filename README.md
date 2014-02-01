@@ -14,4 +14,4 @@ This extension has only been tested on Alfred 2.0 that supports the `.alfredwork
 
 Icon: Eject - http://ionicons.com
 
-Originally Created by: @metavida
+Originally created by: @metavida
